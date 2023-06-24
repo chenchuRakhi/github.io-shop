@@ -1,0 +1,251 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    width: 100%;
+}
+header{
+    width: 100%;
+    height: 85vh;
+}
+.net{
+    width: 100%;
+    height: 10vh;
+    background-color: black;
+
+
+}
+.code{
+    margin-left: 10%;
+    text-align: center;
+    border: none;
+    font-size: 20px;
+    margin-top: 20px;
+    background-color: white;
+    color: gray;
+    
+
+    
+}
+.node{
+ 
+    font-size: 20px;  
+   }
+   .meet{
+       font-size: 20px;
+   
+   }
+   .logo{
+    font-size: 20px;
+    margin-left: 15px;
+    padding: 4px;
+    color: beige;
+   }
+   div{
+    position: absolute;
+   }
+   .loot{
+    background-image: url(https://www.tourmyindia.com/blog/wp-content/uploads/2021/04/Best-Places-to-Visit-in-Jaisalmer.jpg);
+    width: 100%;
+    height: 490px;
+
+    
+
+   }
+   .galaxy{
+    margin-top: 300px;
+    margin-left: 40%;
+    transform: translate(-50%,-50%);
+    font-size: 50px;
+    color: antiquewhite;
+    text-align: center;
+    color: yellow;
+ 
+   }
+   
+   .bottom{
+    width: 150px;
+    height: 60px;
+    margin-left: 8%;
+    margin-top: 30px;
+    margin-bottom: 50PX;
+    border-radius: 15px;
+    background-color: rgb(52, 52, 234);
+    color: white;
+   }
+   main{
+    width: 100%;
+    height: 50vh;
+    background-color:transparent;
+   }
+   .path{
+    font-size: 15px;
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4
+   }
+   .verify{
+     width: 25%;
+     height: 100px;
+     margin-left: 5%;
+     margin-bottom: 10%;
+
+
+   }
+   .cr{
+    font-size: 30px;
+    content: counter(name);
+
+   }
+   .vd{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+
+   }
+   .rupee{
+    margin-left: 38%;
+    margin-top: 15px;
+    
+
+   }
+   .bt{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+
+   }
+   .delivery{
+    margin-left:70%;
+    
+    
+   }
+   .hint{
+    font-size: 30px;
+    content: counter(name);
+    margin-bottom: 5px;
+
+   }
+   .dr{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+   }
+   .gold{
+    width: 100%;
+    height: 60vh;
+    background-color: black;
+
+   }
+   
+   .gf{
+    color: white;
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left: 10px;
+
+    
+   }
+   .pr{
+    color: blue;
+    content: counter(center);
+
+   }
+   .img_1{
+    width: 250px;
+    height: 200px;
+    margin-left: 150%;
+    margin-bottom: 150px;
+    border: none;
+    
+    content: counter(center);
+    
+    
+   }
+   .gf{
+    color: white;
+    font-size: 35px;
+    margin-top: 120px;
+    margin-left: 10px;
+    padding-top: 20px;
+
+    
+   }
+   .pr{
+    color: blue;
+    content: counter(center);
+
+   }
+   .mainone{
+    width: 100%;
+    height: 50vh;
+    background-color: grey;
+
+   }
+   .img_2{
+    width: 250px;
+    height: 250px;
+    margin-top: 40px;
+
+    margin-left: 200px;
+    
+    
+
+   }
+   .rock{
+      margin-left: 800px;
+      margin-top: 0px;
+      float: left;
+      padding-bottom: 80px;
+      
+
+
+          
+   }
+   .rrr{
+    width: 100%;
+    height: 50vh;
+    background-color: black;
+   }
+   .chechu{
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+    float: left;
+    margin-left: 900px;
+    display: flex;
+
+
+   }
+   .gemi{
+    font-size: 25px;
+    color: white;
+    margin-top: 50px;
+
+
+ }
+ span{
+    color: grey;
+ }
+ .fun{
+    width: 100%;
+    height: 100px;
+ }.hhh{
+    margin-left: 20%;
+
+ }
+ span{
+    margin-left: 15%;
+    font-size: 18px;
+    text-align: center;
+ }
+ .Back{
+     margin-left: 80%;
+     text-align: center;
+     font-size: 18px;
+     top: 10%;
+ }
+   
+
+
